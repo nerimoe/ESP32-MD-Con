@@ -5,5 +5,5 @@ void setup() {
 }
 
 void loop() {
-  looper();
+  inputLoop();
 }
