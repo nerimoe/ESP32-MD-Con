@@ -14,4 +14,4 @@
 #define SENSITIVITY 50
 
 void start();
-void looper();
+void inputLoop();
